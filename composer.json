@@ -1,0 +1,12 @@
+{
+    "name": "burtinet/dakiksms",
+    "description": "DakikSMS icin PSR-4 Package Class",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Burak Buylu",
+            "email": "burak@burttinet.com"
+        }
+    ]
+}
