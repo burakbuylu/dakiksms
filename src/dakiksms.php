@@ -9,9 +9,9 @@
  *         @date 23 Şubat 2018
  */
 
-namespace dakikSMS;
+namespace BurtiNET\dakiksms;
 
-class dakikSMS
+class dakiksms
 {
 	private $username;
 	private $password;
