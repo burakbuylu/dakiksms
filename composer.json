@@ -1,6 +1,7 @@
 {
     "name": "burtinet/dakiksms",
     "description": "DakikSMS icin PSR-4 Package Class",
+	"minimum-stability": "dev",
     "homepage": "http://burakbuylu.com",
     "type": "library",
     "license": "MIT",
@@ -15,6 +16,8 @@
         "php": ">=5.3.0"
     },
     "autoload": {
-		"classmap": ["src/dakiksms.php"]
+		"psr-4": {
+			"BurtiNET\\dakiksms\\": "src/"
+		}
     }
 }

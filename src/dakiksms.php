@@ -9,7 +9,7 @@
  *         @date 23 Şubat 2018
  */
 
-
+namespace BurtiNET\dakiksms;
 class dakiksms
 {
 	private $username;
